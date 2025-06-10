@@ -3,7 +3,7 @@
 -- PORTOFOLIO DATA ANALYST: EDA Heart Attack Prediction (MySQL)
 -- Dataset: heart_attack_prediction_indonesia.csv
 -- Tools: MySQL Workbench
--- Author: [Nama Anda]
+-- Author: [Rinaldi Agusta]
 -- ============================================
 
 -- 1. Create Database & Use It
@@ -125,7 +125,5 @@ SELECT
 FROM heart_attack_data
 GROUP BY physical_activity, heart_attack;
 
--- ============================================
--- Tambahkan EDA Lanjutan Sesuai Kebutuhan Anda
--- ============================================
+
 
